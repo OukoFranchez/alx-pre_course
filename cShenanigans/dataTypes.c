@@ -17,7 +17,7 @@ int main() {
         char character = 'z';
         printf("number = %.2lf\n", number);
         printf("number1 = %.2f\n", number1);
-        printf("number3 = %lf\n", number3);
+        printf("number3 = %.2lf\n", number3);
         printf("character = %c\n", character);
         printf("characterInt = %d\n", character);
 

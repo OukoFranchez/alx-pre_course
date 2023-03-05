@@ -19,7 +19,7 @@ int main() {
 
 	int b = 2;
 
-	double result =  a / b;
+	double result = (double)a / b;
 
 	printf("Converted Result = %lf\n", result);
 
